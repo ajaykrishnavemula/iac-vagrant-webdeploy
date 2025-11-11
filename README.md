@@ -1,9 +1,9 @@
-# Virtualization-and-Website-Deployment
+# iac-vagrant-webdeploy
 
 ## Folder Structure
 
 ```
-Virtualization-and-Website-Deployment
+iac-vagrant-webdeploy
 │
 ├── 1-Virtual-Machine-Creation
 │   ├── README.md  (Explains virtualization, manual & automated setup)
