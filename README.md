@@ -1,4 +1,4 @@
-# iac-vagrant-webdeploy
+# Iac-vagrant-webdeploy
 
 ## Folder Structure
 
